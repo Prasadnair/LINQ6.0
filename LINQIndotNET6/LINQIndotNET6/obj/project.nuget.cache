@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXEJSsAK61kM9yTbQbk84TO+zxDg2A2ojeTwMCmZrfEZV2Cm4cTsF6TjH0rtYqa4UtoXp5WOvKN5CnGKWbewkg==",
+  "success": true,
+  "projectFilePath": "D:\\Prasad\\Articles\\LinQFeatures\\LINQIndotNET6\\LINQIndotNET6\\LINQIndotNET6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raget\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.2\\microsoft.netcore.app.host.win-x64.6.0.2.nupkg.sha512",
+    "C:\\Users\\raget\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.0\\microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\raget\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.0\\microsoft.windowsdesktop.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\raget\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.0\\microsoft.netcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

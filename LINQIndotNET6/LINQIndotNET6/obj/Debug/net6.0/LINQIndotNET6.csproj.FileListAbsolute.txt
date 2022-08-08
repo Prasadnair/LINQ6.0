@@ -1,0 +1,15 @@
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\bin\Debug\net6.0\LINQIndotNET6.exe
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\bin\Debug\net6.0\LINQIndotNET6.deps.json
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\bin\Debug\net6.0\LINQIndotNET6.runtimeconfig.json
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\bin\Debug\net6.0\LINQIndotNET6.dll
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\bin\Debug\net6.0\LINQIndotNET6.pdb
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\obj\Debug\net6.0\LINQIndotNET6.csproj.AssemblyReference.cache
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\obj\Debug\net6.0\LINQIndotNET6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\obj\Debug\net6.0\LINQIndotNET6.AssemblyInfoInputs.cache
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\obj\Debug\net6.0\LINQIndotNET6.AssemblyInfo.cs
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\obj\Debug\net6.0\LINQIndotNET6.csproj.CoreCompileInputs.cache
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\obj\Debug\net6.0\LINQIndotNET6.dll
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\obj\Debug\net6.0\refint\LINQIndotNET6.dll
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\obj\Debug\net6.0\LINQIndotNET6.pdb
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\obj\Debug\net6.0\LINQIndotNET6.genruntimeconfig.cache
+D:\Prasad\Articles\LinQFeatures\LINQIndotNET6\LINQIndotNET6\obj\Debug\net6.0\ref\LINQIndotNET6.dll
